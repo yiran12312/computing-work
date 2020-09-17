@@ -1,7 +1,7 @@
 # Mr Lim.md
 ## Mr Lim's story
 
-**Mr Lim** is a *funny* and *responsible* __teacher__ in Dunman High School,class 1E.
+**Mr Lim** is a *funny* and *responsible* __teacher__ in [Dunman High School](https://www.dhs.sg),class 1E.
 
 Mr Lim would:
 * tell us facts about the concepts
